@@ -1,5 +1,5 @@
 # mcp940
-Source code of minecraft 1.12
+Source code of minecraft 1.12 created by Muhammad Bilal
 ## How to run
 **Note: Please prepare proxy tools such as SSR because of large project file size.**
 
