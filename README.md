@@ -81,7 +81,7 @@ Rerun main method in Start .java
 
 ## Ref
 
-- [[教程]全民写端-MCP918配置&Optifine装载&EventAPI](https://www.bilibili.com/video/BV1W741127EZ): builds mcp918 bases on minecraft 1.8
+](https://www.bilibili.com/video/BV1W741127EZ): builds mcp918 bases on minecraft 1.8
 - [mcp940.zip](http://www.modcoderpack.com/): The origin source code of Minecraft client 1.12 & server 1.12
 - [Optifine SRC Version [1.12 HD U A4]](https://optifinesource.co.uk/downloads/1-12.html): Optifine package
 - [DarkMagician6-eventapi.zip](https://bitbucket.org/DarkMagician6/eventapi/downloads/): A event api to listen event in minecraft
