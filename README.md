@@ -6,8 +6,7 @@ Source code of minecraft 1.12 created by Muhammad Bilal
 Clone this project from github to your workspace:
 
 ```shell script
-git clone https://github.com/WangTingZheng/mcp940
-cd mcp940
+git clone https://github.com/muhammadbilalcp/Minecraft-2.11-By-Bilal.git
 ```
 Open IDEA, open another project and select:
 ```
